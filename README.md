@@ -1,0 +1,2 @@
+# newrepository
+for practice git
